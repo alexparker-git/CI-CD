@@ -1,4 +1,3 @@
-def validate_age(age)
-    if age > 18:
-        return True
-    return False
+def print_numbers():
+    for i in range(3):
+    print(i)   # INDENTATION error
